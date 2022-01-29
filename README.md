@@ -33,16 +33,16 @@ ALPACA_SECRET_KEY="your key here"
 This notebook is static from an investments perspective. The ammount of Crypto and quantity of Stock and Bond mutual funds are fixed. The values are calculated using prices obtained through the Alpaca SDK and the Free Crypto API. 
 
 The Crypto prices will automatically update when these cells are run
-![bitcoin](images/btc_response.png?raw=True)
-![etherium](images/eth_response.png?raw=True)
+![bitcoin](Images/btc_response.png?raw=True)
+![etherium](Images/eth_response.png?raw=True)
 
 If you want to compare values from the same trade date, you'll want to update the start and end dates for the stock and bond SDK call here to match the date of your crypto data:
 
-![update the date](images/date_update.png?raw=True)
+![update the date](Images/date_update.png?raw=True)
 
 The pie chart can be hard to read in dark mode. If you want to see the lables, try setting your jupyter lab theme to light mode:
-![dark](images/pie_dark.png?raw=True)
-![light](images/pie_light.png?raw=True)
+![dark](Images/pie_dark.png?raw=True)
+![light](Images/pie_light.png?raw=True)
 
 
 ---
